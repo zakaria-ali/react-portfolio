@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.b9c649b6.css",
+    "main.js": "/react-portfolio/static/js/main.0cf69728.js",
+    "static/js/787.128fc6e9.chunk.js": "/react-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/profile.png": "/react-portfolio/static/media/profile.2d5f09408a4c7cc50c2b.png",
+    "static/media/robot.jpg": "/react-portfolio/static/media/robot.b7a7ab453df3092177b1.jpg",
+    "static/media/fitclub.png": "/react-portfolio/static/media/fitclub.b9f2ebb3e8d81734066d.png",
+    "static/media/responsev.png": "/react-portfolio/static/media/responsev.9bfed254187e9d888904.png",
+    "static/media/about-me.png": "/react-portfolio/static/media/about-me.57b117810779db4cfa11.png",
+    "static/media/customerOrder.png": "/react-portfolio/static/media/customerOrder.7b0e66e68f1313a7b234.png",
+    "static/media/portfolio.png": "/react-portfolio/static/media/portfolio.ee82c0181500cafaa7ba.png",
+    "static/media/leon.png": "/react-portfolio/static/media/leon.be7f04579f08a17ac13a.png",
+    "static/media/aaup.png": "/react-portfolio/static/media/aaup.ff204713ff4f4c204bb0.png",
+    "static/media/CV_Zakaria.pdf": "/react-portfolio/static/media/CV_Zakaria.1d63d102bd722925d087.pdf",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.d9db9b0f8bccad2b37e2.png",
+    "static/media/itg.jpg": "/react-portfolio/static/media/itg.ebf4aea7890351f238ea.jpg",
+    "static/media/bondi.png": "/react-portfolio/static/media/bondi.ecfdd388c4936e6c6500.png",
+    "static/media/adimnApp.png": "/react-portfolio/static/media/adimnApp.58ad627c4a9b8193264a.png",
+    "static/media/note.png": "/react-portfolio/static/media/note.1b301d2fc71a27a72862.png",
+    "static/media/form.png": "/react-portfolio/static/media/form.61ec9b544b77c620d046.png",
+    "static/media/school.png": "/react-portfolio/static/media/school.15adc9d4d09dd2edb894.png",
+    "static/media/logo.svg": "/react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-portfolio/index.html",
+    "main.b9c649b6.css.map": "/react-portfolio/static/css/main.b9c649b6.css.map",
+    "main.0cf69728.js.map": "/react-portfolio/static/js/main.0cf69728.js.map",
+    "787.128fc6e9.chunk.js.map": "/react-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c649b6.css",
+    "static/js/main.0cf69728.js"
+  ]
+}
