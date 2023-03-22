@@ -1,0 +1,63 @@
+.resume-contient {
+    width: 40%;
+    background: var(--bg-variant);
+    padding: 2rem;
+    border-radius: 2rem;
+    user-select: none;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2rem ;
+}
+.resume-contient > div:first-child {
+    width: 6rem;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+    border: 0.4rem solid var(--primary-variant);
+}
+.resume-contient h2 {
+    font-size: 2rem;
+}
+.resume-contient h3 {
+    margin-top: 1.5rem;
+    color: var(--light);
+    font-size: 1.5rem;
+}
+.resume-contient h4 {
+    color: var(--light);
+    font-size: 1.3rem;
+}
+.resume-contient h5 {
+    font-size: 1rem;
+}
+@media (max-width: 768px) {
+    .resume-contient > div:first-child {
+        width: 4rem;
+        aspect-ratio: 1/1;
+        overflow: hidden;
+        border-radius: 50%;
+        margin: 0 auto 1rem;
+        border: 0.4rem solid var(--primary-variant);
+    }
+    .resume-contient h2 {
+        font-size: 1rem;
+    }
+    .resume-contient h3 {
+        margin-top: .5rem;
+    }
+    .resume-contient h3,
+    .resume-contient h4,
+    .resume-contient h5 {
+        color: var(--light);
+        font-size: .5rem;
+    }
+    .resume-contient h5 {
+        color: white;
+    }
+}
+@media (min-width: 768px) and (max-width: 1199px) {
+    .resume-contient .biger{
+        margin-bottom: 3rem;
+    }
+}
